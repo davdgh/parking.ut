@@ -1,0 +1,13 @@
+{
+    "name": "parking-system",
+    "version": "1.0.0",
+    "description": "Sistema de gestión de estacionamiento",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "mysql2": "^2.3.3"
+    }
+  }
